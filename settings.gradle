@@ -1,0 +1,2 @@
+rootProject.name='Character Creator'
+include ':app'
